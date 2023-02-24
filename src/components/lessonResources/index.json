@@ -7,11 +7,7 @@
             "download": [
                 {
                     "name": "课件",
-                    "address": "https://www.baidu.com/"
-                },
-                {
-                    "name": "代码",
-                    "address": "https://www.baidu.com/"
+                    "address": ""
                 }
             ]
         },
@@ -22,11 +18,7 @@
             "download": [
                 {
                     "name": "课件",
-                    "address": "https://www.baidu.com/"
-                },
-                {
-                    "name": "代码",
-                    "address": "https://www.baidu.com/"
+                    "address": ""
                 }
             ]
         },
@@ -37,11 +29,7 @@
             "download": [
                 {
                     "name": "课件",
-                    "address": "https://www.baidu.com/"
-                },
-                {
-                    "name": "代码",
-                    "address": "https://www.baidu.com/"
+                    "address": ""
                 }
             ]
         }

@@ -10,7 +10,7 @@
                 "每次 3 课时，12 次课，共 36 学时"
             ],
             "lessonImg": "quote.png",
-            "link": "https://www.csdn.net/"
+            "link": "https://highschool.opentai.org/"
         },
         {
             "lessonName": "课程简介",
@@ -22,25 +22,13 @@
                 "每次 3 课时，12 次课，共 36 学时"
             ],
             "lessonImg": "quote.png",
-            "link": "https://www.csdn.net/"
-        },
-        {
-            "lessonName": "课程简介",
-            "lessonDetail": "人工智能是21世纪最令人兴奋的学科领域之一。经过70多年的起伏发展，人工智能技术已深入人们生产生活的方方面面，人类社会在不久的将来也会全面进入人工智能时代。本课程将从人工智能的发展历史出发，介绍人工智能的代表性研究方向，包括计算机视觉、自然语言处理、金融科技、科学智能等。此外，本课程会配备示例项目，包括系外行星检测、寻找走失儿童、帮助盲人识字、虚假新闻检测等，给学生展示如何使用人工智能进行科学发现和解决社会问题，帮学生建立对人工智能的兴趣和社会责任感。",
-            "lessonButton": "了解更多",
-            "lessonFeature": [
-                "复旦大学任课教师/团队",
-                "大量真实场景实例项目",
-                "每次 3 课时，12 次课，共 36 学时"
-            ],
-            "lessonImg": "quote.png",
-            "link": ""
+            "link": "https://highschool.opentai.org/"
         }
     ],
     "projects": [
         {
             "projectName": "系外行星检测",
-            "projectDescription": "Adversarial attacks and defenses.",
+            "projectDescription": "Exoplanet Hunting",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
@@ -49,7 +37,7 @@
         },
         {
             "projectName": "寻找走失儿童",
-            "projectDescription": "Adversarial attacks and defenses.",
+            "projectDescription": "Find Missing Children",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
@@ -58,7 +46,7 @@
         },
         {
             "projectName": "帮助盲人识字",
-            "projectDescription": "Adversarial attacks and defenses.",
+            "projectDescription": "Help the Blind Read",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
@@ -67,7 +55,7 @@
         },
         {
             "projectName": "带你认识ChatGPT",
-            "projectDescription": "Adversarial attacks and defenses.",
+            "projectDescription": "Meet with ChatGPT",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
@@ -76,7 +64,7 @@
         },
         {
             "projectName": "情感倾向分析",
-            "projectDescription": "Adversarial attacks and defenses.",
+            "projectDescription": "Sentiment Analysis",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
@@ -85,7 +73,7 @@
         },
         {
             "projectName": "金融风险检测",
-            "projectDescription": "Adversarial attacks and defenses.",
+            "projectDescription": "Financial Risk Detection",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
@@ -94,7 +82,7 @@
         },
         {
             "projectName": "学习隐藏的规律",
-            "projectDescription": "Adversarial attacks and defenses.",
+            "projectDescription": "Learn Hidden Rules",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
@@ -103,7 +91,7 @@
         },
         {
             "projectName": "真假人脸识别",
-            "projectDescription": "Adversarial attacks and defenses.",
+            "projectDescription": "Discriminate Real and Fake Faces",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
@@ -112,7 +100,7 @@
         },
         {
             "projectName": "打开人工智能的黑盒子",
-            "projectDescription": "Adversarial attacks and defenses.",
+            "projectDescription": "Open the Black Box of AI",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
@@ -121,7 +109,7 @@
         },
         {
             "projectName": "能让你“隐身”的对抗补丁",
-            "projectDescription": "Adversarial attacks and defenses.",
+            "projectDescription": "Adversarial Patch",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",

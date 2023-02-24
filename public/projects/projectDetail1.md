@@ -1,6 +1,6 @@
 <center><h1>系外行星</h1></center>
 
-<center><img src="https://raw.githubusercontent.com/fudanhighai/fudanhighai.github.io/main/src/assets/img/lesson/other/yinhe.jpg" width=600px /></center>
+<center><img src="https://raw.githubusercontent.com/fudanhighai/fudanhighai.github.io/main/src/assets/img/lesson/other/yinhe.jpg" width=400px /></center>
 
 <center><h2>一、什么是系外行星</h2></center>
 
@@ -164,40 +164,21 @@
 
 #### 机器学习常见概念
 
-##### 欠拟合与过拟合
-
-过拟合：是指学习时选择的模型所包含的参数过多，以至于出现这一模型对已知数据预测的很好，但对未知数据预测得很差的现象。这种情况下模型可能只是记住了训练集数据，而不是学习到了数据特征。
+**欠拟合与过拟合**。过拟合：是指学习时选择的模型所包含的参数过多，以至于出现这一模型对已知数据预测的很好，但对未知数据预测得很差的现象。这种情况下模型可能只是记住了训练集数据，而不是学习到了数据特征。
 欠拟合：模型描述能力太弱，以至于不能很好地学习到数据中的规律。产生欠拟合的原因通常是模型过于简单。
 
 <center><img src="https://raw.githubusercontent.com/fudanhighai/fudanhighai.github.io/main/src/assets/img/lesson/other/fitting.png" width=600px /></center>
 
-##### 正则化
-
-正则化中我们将保留所有的特征变量，但是会减小特征变量的数量级，即将一些不需要的参数值变为零，从而缓解过拟合的情况。
+**正则化**。正则化中我们将保留所有的特征变量，但是会减小特征变量的数量级，即将一些不需要的参数值变为零，从而缓解过拟合的情况。
 
 #### 算法比较
 
-传统机器学习算法：svm，随机森林  
+1. 传统机器学习算法：[支持向量机（SVM）](https://blog.csdn.net/qq_42363032/article/details/107210881?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167487618116800184170971%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167487618116800184170971&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-1-107210881-null-null.142^v71^one_line,201^v4^add_ask&utm_term=svm%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D&spm=1018.2226.3001.4187)，[随机森林](https://blog.csdn.net/cg896406166/article/details/83796557?ops_request_misc=&request_id=&biz_id=102&utm_term=%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-83796557.142^v71^one_line,201^v4^add_ask&spm=1018.2226.3001.4187)
 
-1、svm（支持向量机）  
+2. 基于网络模型的方法：[多层感知机（MLP）](https://zhuanlan.zhihu.com/p/473509550)，[卷积神经网络（CNN）](https://zhuanlan.zhihu.com/p/546593921)
 
-[详情见这里](https://blog.csdn.net/qq_42363032/article/details/107210881?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167487618116800184170971%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167487618116800184170971&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-1-107210881-null-null.142^v71^one_line,201^v4^add_ask&utm_term=svm%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D&spm=1018.2226.3001.4187)  
+### 3. 行星检测
 
-2、随机森林  
+相关课程实例项目代码可前往 [GitHub](https://github.com/fudanhighai/exoplanet-hunting) 查看。
 
-[详情见这里](https://blog.csdn.net/cg896406166/article/details/83796557?ops_request_misc=&request_id=&biz_id=102&utm_term=%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E9%80%9A%E4%BF%97%E4%BB%8B%E7%BB%8D&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-83796557.142^v71^one_line,201^v4^add_ask&spm=1018.2226.3001.4187)  
-
-深度学习网路：mlp，cnn  
-
-1、mlp  
-
-[详情见这里](https://zhuanlan.zhihu.com/p/473509550)  
-
-2、cnn  
-
-[详情见这里](https://zhuanlan.zhihu.com/p/546593921)  
-
-### 行星检测
-
-[jupyter code](./Exoplanet%20Hunting%20in%20Deep%20Space/archive/code.ipynb)  
 最终的结果（AI预测为系外行星）需要经过天文学家人工检测来核实，以确保准确性
