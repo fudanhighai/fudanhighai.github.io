@@ -157,7 +157,7 @@
 
 2. 基于深度学习的方法：基于深度学习的方法是近年来黑白图像着色的主要方法。通过深度学习，可以实现从黑白图像到彩色图像的自动
 
-<center><img src="projects/projectDetail2/color_model.jpg" width=400px /></center>
+<center><img src="projects/projectDetail2/cic.jpg" width=650px /></center>
 
 ### 实践 - 通过模型微调自己训练一个黑白老照片着色模型
 
