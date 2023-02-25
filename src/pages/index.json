@@ -41,8 +41,8 @@
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
-            "markdown": "",
-            "link": "https://fudan-highai-flc.terrytengli.com/"
+            "markdown": "projects/projectDetail2.md",
+            "link": ""
         },
         {
             "projectName": "帮助盲人识字",
