@@ -214,42 +214,42 @@
     },
     "teachers": [
         {
-            "figure": "profile1.png",
+            "figure": "profile1.webp",
             "teacherName": "马兴军",
             "jobTitle": "复旦大学计算机学院青年研究员"
         },
         {
-            "figure": "profile2.png",
+            "figure": "profile2.webp",
             "teacherName": "欧阳万里",
             "jobTitle": "上海人工智能实验室教授"
         },
         {
-            "figure": "profile3.png",
+            "figure": "profile3.webp",
             "teacherName": "张奇",
             "jobTitle": "复旦大学计算机学院教授"
         },
         {
-            "figure": "profile4.png",
+            "figure": "profile4.webp",
             "teacherName": "陈智能",
             "jobTitle": "复旦大学计算机学院青年研究员"
         },
         {
-            "figure": "profile5.png",
+            "figure": "profile5.webp",
             "teacherName": "吴祖煊",
             "jobTitle": "复旦大学计算机学院青年副研究员"
         },
         {
-            "figure": "profile6.png",
+            "figure": "profile6.webp",
             "teacherName": "叶广楠",
             "jobTitle": "复旦大学计算机学院研究员"
         },
         {
-            "figure": "profile7.png",
+            "figure": "profile7.webp",
             "teacherName": "陈思明",
             "jobTitle": "复旦大学大数据学院青年研究员"
         },
         {
-            "figure": "profile8.png",
+            "figure": "profile8.webp",
             "teacherName": "曲文",
             "jobTitle": "复旦大学社会科学高等研究院青年副研究员"
         }
