@@ -31,7 +31,7 @@
             "projectDescription": "Exoplanet Hunting",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
-            "projectBackground": "projectBackground.png",
+            "projectBackground": "exoplanet.webp",
             "markdown": "projects/projectDetail1.md",
             "link": ""
         },
@@ -40,7 +40,7 @@
             "projectDescription": "Find Missing Children",
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
-            "projectBackground": "projectBackground.png",
+            "projectBackground": "find-missing.webp",
             "markdown": "projects/projectDetail2.md",
             "link": ""
         },
