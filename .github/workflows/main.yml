@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: Install dependencies 📦️
-        run: yarn install
+        run: yarn install --no-lockfile
       - name: build
         run: |
            yarn build
