@@ -69,7 +69,7 @@ ChatGPT（全名：Chat Generative Pre-trained Transformer），是由OpenAI研�
   <table width="100%">
   <tbody>
   <tr width="100%">
-    <td width="20%">
+    <td width="15%">
       <center><img src="projects/projectDetail4/QA1.webp" height=250px /></center>
     </td>
     <td width="20%">
@@ -78,7 +78,7 @@ ChatGPT（全名：Chat Generative Pre-trained Transformer），是由OpenAI研�
   </tr>
 
   <tr>
-    <td width="20%">
+    <td width="15%">
       <center><figcaption>示例一</figcaption></center>
     </td>
     <td width="20%">
