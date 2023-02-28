@@ -29,14 +29,14 @@ const Homepage = () => {
 
   const openProjectDetail = (url) => {
     setIsProjectDetailMarkdown(true);
-    setProjectDetailOpen(true);
     setProjectUrl(url);
+    setProjectDetailOpen(true);
   }
 
   const openProjectLink = (url) => {
     setIsProjectDetailMarkdown(false);
-    setProjectDetailOpen(true);
     setProjectUrl(url);
+    setProjectDetailOpen(true);
   }
 
   const openLessonLink = (url) => {
@@ -282,6 +282,7 @@ const Homepage = () => {
             onCancel={() => { setProjectDetailOpen(false) }}
             closeIcon={<img src={closeIcon} className={styles.closeIcon} />}
             footer={null}
+            destroyOnClose={true}
           >
             <ProjectDetail url={projectUrl} isMarkdown={isProjectDetailMarkdown} />
           </Modal>
