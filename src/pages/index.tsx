@@ -34,9 +34,11 @@ const Homepage = () => {
   }
 
   const openProjectLink = (url) => {
-    setIsProjectDetailMarkdown(false);
-    setProjectUrl(url);
-    setProjectDetailOpen(true);
+    if (url) {
+      setIsProjectDetailMarkdown(false);
+      setProjectUrl(url);
+      setProjectDetailOpen(true);
+    }
   }
 
   const openLessonLink = (url) => {

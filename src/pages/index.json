@@ -6,7 +6,7 @@
             "lessonButton": "了解更多",
             "lessonFeature": [
                 "复旦大学任课教师/团队",
-                "大量真实场景实例项目",
+                "大量有趣实例项目",
                 "每次 3 课时，12 次课，共 36 学时"
             ],
             "lessonImg": "quote.webp",
@@ -18,7 +18,7 @@
             "lessonButton": "了解更多",
             "lessonFeature": [
                 "复旦大学任课教师/团队",
-                "大量真实场景实例项目",
+                "大量有趣实例项目",
                 "每次 3 课时，12 次课，共 36 学时"
             ],
             "lessonImg": "quote.webp",
@@ -51,7 +51,7 @@
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
-            "link": "https://example.com/"
+            "link": ""
         },
         {
             "projectName": "带你认识ChatGPT",
@@ -69,7 +69,7 @@
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
-            "link": "https://example.com/"
+            "link": ""
         },
         {
             "projectName": "金融风险检测",
@@ -78,7 +78,7 @@
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
-            "link": "https://example.com/"
+            "link": ""
         },
         {
             "projectName": "学习隐藏的规律",
@@ -87,7 +87,7 @@
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
-            "link": "https://example.com/"
+            "link": ""
         },
         {
             "projectName": "真假人脸识别",
@@ -96,7 +96,7 @@
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
-            "link": "https://example.com/"
+            "link": ""
         },
         {
             "projectName": "打开人工智能的黑盒子",
@@ -105,7 +105,7 @@
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
-            "link": "https://example.com/"
+            "link": ""
         },
         {
             "projectName": "能让你“隐身”的对抗补丁",
@@ -114,7 +114,7 @@
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
-            "link": "https://example.com/"
+            "link": ""
         }
     ],
     "process": [
