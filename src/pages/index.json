@@ -47,7 +47,7 @@
         {
             "projectName": "帮助盲人识字",
             "projectDescription": "Help the Blind Read",
-            "projectReadMore": "查看详情",
+            "projectReadMore": "尚未发布",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
@@ -65,7 +65,7 @@
         {
             "projectName": "情感倾向分析",
             "projectDescription": "Sentiment Analysis",
-            "projectReadMore": "查看详情",
+            "projectReadMore": "尚未发布",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
@@ -74,7 +74,7 @@
         {
             "projectName": "金融风险检测",
             "projectDescription": "Financial Risk Detection",
-            "projectReadMore": "查看详情",
+            "projectReadMore": "尚未发布",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
@@ -83,7 +83,7 @@
         {
             "projectName": "学习隐藏的规律",
             "projectDescription": "Learn Hidden Rules",
-            "projectReadMore": "查看详情",
+            "projectReadMore": "尚未发布",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
@@ -92,7 +92,7 @@
         {
             "projectName": "真假人脸识别",
             "projectDescription": "Discriminate Real and Fake Faces",
-            "projectReadMore": "查看详情",
+            "projectReadMore": "尚未发布",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
@@ -101,7 +101,7 @@
         {
             "projectName": "打开人工智能的黑盒子",
             "projectDescription": "Open the Black Box of AI",
-            "projectReadMore": "查看详情",
+            "projectReadMore": "尚未发布",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
@@ -110,7 +110,7 @@
         {
             "projectName": "能让你“隐身”的对抗补丁",
             "projectDescription": "Adversarial Patch",
-            "projectReadMore": "查看详情",
+            "projectReadMore": "尚未发布",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
             "markdown": "",
