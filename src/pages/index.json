@@ -50,8 +50,8 @@
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
-            "markdown": "projects/projectDetail3.md",
-            "link": ""
+            "markdown": "",
+            "link": "https://example.com/"
         },
         {
             "projectName": "带你认识ChatGPT",
@@ -68,8 +68,8 @@
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
-            "markdown": "projects/projectDetail1.md",
-            "link": ""
+            "markdown": "",
+            "link": "https://example.com/"
         },
         {
             "projectName": "金融风险检测",
@@ -77,8 +77,8 @@
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
-            "markdown": "projects/projectDetail1.md",
-            "link": ""
+            "markdown": "",
+            "link": "https://example.com/"
         },
         {
             "projectName": "学习隐藏的规律",
@@ -86,8 +86,8 @@
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
-            "markdown": "projects/projectDetail1.md",
-            "link": ""
+            "markdown": "",
+            "link": "https://example.com/"
         },
         {
             "projectName": "真假人脸识别",
@@ -95,8 +95,8 @@
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
-            "markdown": "projects/projectDetail1.md",
-            "link": ""
+            "markdown": "",
+            "link": "https://example.com/"
         },
         {
             "projectName": "打开人工智能的黑盒子",
@@ -104,8 +104,8 @@
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
-            "markdown": "projects/projectDetail1.md",
-            "link": ""
+            "markdown": "",
+            "link": "https://example.com/"
         },
         {
             "projectName": "能让你“隐身”的对抗补丁",
@@ -113,8 +113,8 @@
             "projectReadMore": "查看详情",
             "projectIcon": "projectIcon.png",
             "projectBackground": "projectBackground.png",
-            "markdown": "projects/projectDetail1.md",
-            "link": ""
+            "markdown": "",
+            "link": "https://example.com/"
         }
     ],
     "process": [
